@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/alamikaele/post-install-config)
   - [osTicket: Ticket Lifecycle Creation and Handling](https://github.com/alamikaele/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Resource Groups and Virtual Machines (Azure Basics)](https://github.com/alamikaele/resourcegroup-vm)
+  - [Configuring Resource Groups and Virtual Machines (Azure Basics)](https://github.com/alamikaele/resource-group-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alamikaele/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alamikaele/azure-network-protocols)
 - <b>Virtual Private Network</b>
