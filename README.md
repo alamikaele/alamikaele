@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alamikaele/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alamikaele/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  - [Configuring VPN](https://github.com/alamikaele/configure-ad)
+  - [Configuring VPN](https://github.com/alamikaele/vpn)
 
 <h2>🤝Connect With Me🤝</h2>
 
