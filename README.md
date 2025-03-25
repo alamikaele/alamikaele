@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Creation and Handling](https://github.com/alamikaele/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Active Directory: Configuring of On-premise AD within Azure VMs](https://github.com/alamikaele/configure-ad)
-  - [Active Directory: Account Lockouts & Management](https://github.com/alamikaele/account-ad)
+  - [Active Directory: Account Lockouts & Management](https://github.com/alamikaele/account-management-ad)
 - <b>Virtual Private Network</b>
   - [Configuring VPN](https://github.com/alamikaele/vpn)
 - <b>Microsoft Azure</b>
