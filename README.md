@@ -12,7 +12,6 @@
 - <b>Virtual Private Network</b>
   - [Configuring VPN](https://github.com/alamikaele/vpn)
 - <b>Microsoft Azure</b>
-  - [(IN PROGRESS) Configuring Resource Groups and Virtual Machines (Azure Basics)](https://github.com/alamikaele/resource-group-vm)
   - [(IN PROGRESS) Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alamikaele/azure-network-protocols)
 <h2>🤝Connect With Me🤝</h2>
 
